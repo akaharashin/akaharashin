@@ -43,7 +43,9 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/muhamad-akbar-973a7025a/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=C82E87" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/USERNAME/)
+[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=C82E87" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/akahara_moriuchi/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0088cc" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/akaharashin/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
