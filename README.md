@@ -36,6 +36,8 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React logo" title="React" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 🔍  Where to find me
 
