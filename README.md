@@ -22,7 +22,7 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=007ACC" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=#7410F0" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 &nbsp;
 
 
