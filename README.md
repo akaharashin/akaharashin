@@ -48,7 +48,7 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 &nbsp;
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0088cc" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/akaharashin/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=5865F2" alt="Discord logo" title="Discord" height="25" />](https://discordapp.com/invite/YOUR_INVITE_CODE)
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=5865F2" alt="Discord logo" title="Discord" height="25" />](https://discord.com/users/831859692929417216)
 
 
 [tech_tools_anchor]: #bonjour--
