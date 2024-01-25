@@ -38,6 +38,8 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=white" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Android%20%Studio-61DAFB?logo=android-studio&logoColor=282C34" alt="Android logo" title="Android" height="25" />][learning_next_anchor]
+
 
 ## 🔍  Where to find me
 
