@@ -16,7 +16,9 @@ My name is Akahara Shin. I am a frontend developer. 🥐
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=laravel&logoColor=F05032" alt="git logo" title="laravel" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=F05032" alt="laravel logo" title="laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/vue-282C34?logo=vuel&logoColor=F05032" alt="vue logo" title="vue" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
